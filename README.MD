@@ -11,7 +11,7 @@
 * add mod and sum: `git add go.mod go.sum`
 
 # Database Model
-
+Src: [Medium](https://medium.com/towards-data-engineering/building-a-personal-finance-management-app-database-setup-with-postgresql-and-docker-5075e283303e)
 ## Tables
 
 ### expense_categories
